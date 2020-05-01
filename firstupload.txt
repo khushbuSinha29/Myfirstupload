@@ -1,2 +1,4 @@
 printf("Hello World ");
-printf("Practicing my first upload in git hub");
+printf("Practicing my first upload on git hub");
+printf("Trying to learn different technology");
+
